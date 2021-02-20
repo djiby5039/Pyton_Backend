@@ -1,0 +1,8 @@
+{ "post": [{"data": {"type": "post", "attributes" : {"photo": "", 
+    "nom": "pantalon",
+    "prix":2000}}},
+
+     {"data": {"type":"post", "attributes": 
+        {"photo": "", 
+        "nom": "robe",
+        "prix":25000}}}]}
